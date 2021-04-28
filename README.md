@@ -17,12 +17,13 @@ REQUISITOS:
 - Instalar sails.js.
 - Hacer npm install una vez descargado el proyecto.
 - Crear un archivo .env.
- agregar los siguiente datos al archivo .env: 
+- Correr el programa (npm run dev).
+
+Datos en .env: 
 - Facebook_token
 - Facebook_ad_account_id
 - Facebook_app_secret
 - Facebook_app_id 
-- Correr el programa (npm run dev).
 
 
 ### Version info
