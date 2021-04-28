@@ -12,6 +12,15 @@ a [Sails v1](https://sailsjs.com) application
 + [Professional / enterprise options](https://sailsjs.com/enterprise)
 
 
+REQUISITOS:
+- Tener instalado Nodejs.
+- Instalar sails.js.
+- Hacer npm install una vez descargado el proyecto.
+- Crear un archivo .env.
+- agregar las credenciales al archivo .env-
+- Correr el programa (npm run dev).
+
+
 ### Version info
 
 This app was originally generated on Tue Mar 23 2021 10:45:58 GMT-0600 (hora estándar central) using Sails v1.4.0.
